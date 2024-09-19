@@ -95,7 +95,7 @@ Este tema é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais
 
   
 
-Desenvolvido com ❤️ por [Seu Nome]. Inspirado pelas profundezas do oceano e pela comunidade de desenvolvedores.
+Desenvolvido com ❤️ por Delfim Celestino. Inspirado pelas profundezas do oceano e pela comunidade de desenvolvedores.
 
   
 
