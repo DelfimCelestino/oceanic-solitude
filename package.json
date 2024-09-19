@@ -1,0 +1,22 @@
+{
+  "name": "oceanic-solitude",
+  "displayName": "Oceanic Solitude Theme",
+  "description": "Um tema inspirado nas profundezas do oceano, evocando uma sensação de solidão e tranquilidade.",
+  "version": "0.0.1",
+  "publisher": "Delfim Celestino Amisse Pastola",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceanic Solitude",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-solitude-color-theme.json"
+      }
+    ]
+  }
+}
